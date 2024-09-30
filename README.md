@@ -1,4 +1,4 @@
-# Your Next Store
+# Exemplo máximo
 
 <div align="center">
 <table>
