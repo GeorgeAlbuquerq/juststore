@@ -107,6 +107,13 @@ Além disso, o Your Next Store usa metadados do produto para fornecer mais infor
  - order	Não		A ordem do produto usada para classificar produtos. Números menores aparecem primeiro.
  - variant	Não		O slug da variante do produto. Leia abaixo para mais detalhes.
 
+| Campo    | Obrigatório | Descrição                                                                              |
+| -------- | :---------: | -------------------------------------------------------------------------------------  |
+| slug     |    Sim      | O slug do produto é usado para URLs. Precisa ser único, exceto para variantes.         |
+| category |    Não      | A categoria do produto usada para agrupar produtos.                                    |
+| order    |    Não      | A ordem do produto usada para classificar produtos. Números menores aparecem primeiro. |
+| variant  |    Não      | O slug da variante do produto. Leia abaixo para mais detalhes.                         |
+
 Agora você deve ver todos os produtos adicionados no Your Next Store.
 
 
