@@ -25,8 +25,6 @@
 </tr>
 </table>
 
-👉 [demo.yournextstore.com](https://demo.yournextstore.com/) 👈
-
 </div>
 
 ## Demo
